@@ -1,0 +1,174 @@
+{
+    "data": 
+    [{
+        "id": "1",
+        "name": "Zuhra sharif",
+        "department": "human reasource & administration",
+        "imageURL": "https://res.cloudinary.com/swahilipothubdev/image/upload/v1676965778/mgt%20team/pic2_wbdgmv.png"
+    }, {
+        "id": "2",
+        "name": "Mahmoud noor",
+        "department": "chief mentor",
+        "imageURL": "https://res.cloudinary.com/swahilipothubdev/image/upload/v1676966225/mgt%20team/DSC_1976_2_wxr9kj.png" 
+    }, {
+        "id": "3",
+        "name": "Abbas  Mohammed",
+        "department": "communication",
+        "imageURL": "https://res.cloudinary.com/swahilipothubdev/image/upload/v1676966369/mgt%20team/DSC_1977_m2tns1.png"
+    }, {
+        "id": "4",
+        "name": "chris Achinga",
+        "department": "tech",
+        "imageURL": "https://res.cloudinary.com/swahilipothubdev/image/upload/v1676967166/mgt%20team/befunky_2023-1-2_0-10-22_qq8fwy.png"
+    }, {
+        "id": "5",
+        "name": "Rajab Salim",
+        "department": "community",
+        "imageURL": "https://res.cloudinary.com/swahilipothubdev/image/upload/v1676967155/mgt%20team/befunky_2023-1-2_0-8-8_xohwsl.png"
+    }, {
+        "id": "6",
+        "name": "Amina Mahmoud",
+        "department": "health",
+        "imageURL": "https://res.cloudinary.com/swahilipothubdev/image/upload/v1676967604/mgt%20team/befunky_2023-1-2_0-19-10_wdz6b1.png"
+    }, {
+        "id": "7",
+        "name": "Dansho",
+        "department": "administration",
+        "imageURL": "https://res.cloudinary.com/swahilipothubdev/image/upload/v1676967176/mgt%20team/befunky_2023-1-2_0-11-38_w7mdk4.png"
+    }, {
+        "id": "8",
+        "name": "John Kmau",
+        "department": "communication",
+        "imageURL": "https://res.cloudinary.com/swahilipothubdev/image/upload/v1676967630/mgt%20team/befunky_2023-1-2_0-18-35_fhcruo.png"
+    }, {
+        "id": "9",
+        "name": "Alwy Yakut",
+        "department": "creative",
+        "imageURL": "https://res.cloudinary.com/swahilipothubdev/image/upload/v1676967630/mgt%20team/befunky_2023-1-2_0-15-45_vyvbwi.png"
+    }, {
+        "id": "10",
+        "name": "peter mbugua",
+        "department": "creative",
+        "imageURL": "https://res.cloudinary.com/swahilipothubdev/image/upload/v1676967631/mgt%20team/befunky_2023-1-2_0-15-18_akz3hl.png"
+    }, {
+        "id": "11",
+        "name": "rose akinyi",
+        "department": "administration",
+        "imageURL": "https://res.cloudinary.com/swahilipothubdev/image/upload/v1676967631/mgt%20team/befunky_2023-1-2_0-18-1_odio3z.png"
+    }, {
+        "id": "12",
+        "name": "miles montego",
+        "department": "creative",
+        "imageURL": "https://res.cloudinary.com/swahilipothubdev/image/upload/v1676967632/mgt%20team/befunky_2023-1-2_0-14-51_swdtzx.png"
+    }, {
+        "id": "13",
+        "name": "issa ziri",
+        "department": "tech",
+        "imageURL": "https://res.cloudinary.com/swahilipothubdev/image/upload/v1676967632/mgt%20team/befunky_2023-1-2_0-17-35_mggvls.png"
+    }, {
+        "id": "14",
+        "name": "BiJuma Swaleh ",
+        "department": "administration",
+        "imageURL": "https://res.cloudinary.com/swahilipothubdev/image/upload/v1676967632/mgt%20team/befunky_2023-1-2_0-16-40_pmwvlh.png"
+    }, {
+        "id": "15",
+        "name": "arafat Mukasa",
+        "department": "tech",
+        "imageURL": "https://res.cloudinary.com/swahilipothubdev/image/upload/v1676967632/mgt%20team/befunky_2023-1-2_0-16-22_lddys9.png"
+    }, {
+        "id": "16",
+        "name": "Zamzam abdi",
+        "department": "communication",
+        "imageURL": "https://res.cloudinary.com/swahilipothubdev/image/upload/v1676967632/mgt%20team/befunky_2023-1-2_0-14-24_deqf40.png"
+    }, {
+        "id": "17",
+        "name": "Alice kerubo",
+        "department": "administration",
+        "imageURL": "https://res.cloudinary.com/swahilipothubdev/image/upload/v1676967632/mgt%20team/befunky_2023-1-2_0-17-7_swhgl7.png"
+    }, {
+        "id": "18",
+        "name": "rahma abdul",
+        "department": "communication",
+        "imageURL": "https://res.cloudinary.com/swahilipothubdev/image/upload/v1676969107/mgt%20team/DSC_2368_amxx45.png"
+    }, {
+        "id": "19",
+        "name": "atrash",
+        "department": "boarding",
+        "imageURL": "https://res.cloudinary.com/swahilipothubdev/image/upload/v1676969106/mgt%20team/DSC_2380_qvvhs1.png"
+    }, {
+        "id": "20",
+        "name": "winnie ahaya ",
+        "department": "creative",
+        "imageURL": "https://res.cloudinary.com/swahilipothubdev/image/upload/v1676969107/mgt%20team/DSC_2377_yhk9mk.png"
+    }, {
+        "id": "21",
+        "name": "philipa Mary",
+        "department": "youth engagement management",
+        "imageURL": "https://res.cloudinary.com/swahilipothubdev/image/upload/v1676969106/mgt%20team/DSC_2358_s0liiy.png"
+    }, {
+        "id": "22",
+        "name": "Titus simiyu",
+        "department": "administration",
+        "imageURL": "https://res.cloudinary.com/swahilipothubdev/image/upload/v1676969107/mgt%20team/DSC_2337_1_ulr7ba.png"
+    }, {
+        "id": "23",
+        "name": "patrick Njaumbe",
+        "department": "tech",
+        "imageURL": "https://res.cloudinary.com/swahilipothubdev/image/upload/v1676969107/mgt%20team/DSC_2326_ihrjj0.png"
+    }, {
+        "id": "24",
+        "name": "balqees Yassin",
+        "department": "Boarding",
+        "imageURL": "https://res.cloudinary.com/swahilipothubdev/image/upload/v1676969108/mgt%20team/DSC_2324_vjgd4t.png"
+    }, {
+        "id": "25",
+        "name": "Arafat mohammed",
+        "department": "administration",
+        "imageURL": "https://res.cloudinary.com/swahilipothubdev/image/upload/v1676969108/mgt%20team/DSC_2330_cekbqn.png"
+    }, {
+        "id": "26",
+        "name": "David Wekesa",
+        "department": "administration",
+        "imageURL": "https://res.cloudinary.com/swahilipothubdev/image/upload/v1676969108/mgt%20team/DSC_2311_bnvcgg.png"
+    }, {
+        "id": "27",
+        "name": "kevin wafula",
+        "department": "communication",
+        "imageURL": "https://res.cloudinary.com/swahilipothubdev/image/upload/v1676969108/mgt%20team/DSC_2285_faieoa.png"
+    }, {
+        "id": "28",
+        "name": "Sammy chale",
+        "department": "health",
+        "imageURL": "https://res.cloudinary.com/swahilipothubdev/image/upload/v1676969109/mgt%20team/DSC_2254_qvsq0r.png"
+    }, {
+        "id": "29",
+        "name": "suhayl hamid",
+        "department": "communication",
+        "imageURL": "https://res.cloudinary.com/swahilipothubdev/image/upload/v1676969108/mgt%20team/DSC_2265_sgdzfd.png"
+    }, {
+        "id": "30",
+        "name": "eric Pamba",
+        "department": "communication",
+        "imageURL": "https://res.cloudinary.com/swahilipothubdev/image/upload/v1676969109/mgt%20team/DSC_2235_kevcry.png"
+    }, {
+        "id": "31", 
+        "name": "daisy chesan", 
+        "department": "creative",
+        "imageURL": "https://res.cloudinary.com/swahilipothubdev/image/upload/v1676969109/mgt%20team/befunky_2023-1-2_0-23-28_f4vqzi.png"
+    }, {
+        "id": "32", 
+        "name": "james Ndung'u", 
+        "department": "youth engagement management",
+        "imageURL": "https://res.cloudinary.com/swahilipothubdev/image/upload/v1676969109/mgt%20team/DSC_2258_a7bjhb.png"
+    }, {
+        "id": "33", 
+        "name": "fatma Alwy", 
+        "department": "finance",
+        "imageURL": "https://res.cloudinary.com/swahilipothubdev/image/upload/v1676969110/mgt%20team/befunky_2023-1-2_0-20-56_jzenaj.png"
+    }, {
+        "id": "34", 
+        "name": "ayub mohammed", 
+        "department": "tech",
+        "imageURL": "https://res.cloudinary.com/swahilipothubdev/image/upload/v1676969110/mgt%20team/befunky_2023-1-2_0-22-23_mmblrx.png"
+    }]
+}

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSONFILE_TESTING</title>
+</head>
+<body>
+    <ul id="data"></ul>
+    <script>  
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function () {
+        if (this.readyState == 4 && this.status == 200) {
+            var response = JSON.parse(xhttp.responseText);
+            var data = response.data;
+            var output = '';
+            for (var i = 0; i < data.length; i++) {
+                var img = document.createElement('img');
+                img.width = 200; // set the width to 200 pixels
+                img.height = 200; // set the height to 200 pixels
+                img.src = data[ i ].imageURL;
+                img.alt = data[ i ].name;
+                var li = document.createElement('li');
+                li.appendChild(img);
+                li.appendChild(document.createTextNode(data[ i ].name));
+                li.appendChild(document.createElement('br'));
+                li.appendChild(document.createTextNode('Department: ' + data[ i ].department));
+                output += li.outerHTML;
+            }
+            var container = document.createElement('div');
+            container.classList.add('flex-container'); // add a class for the flex container
+            container.innerHTML = output;
+            document.getElementById('data').appendChild(container);
+        }
+    };
+    xhttp.open("GET", "data.json", true);
+    xhttp.send();
+    </script>
+</body>
+</html>
